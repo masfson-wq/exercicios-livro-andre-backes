@@ -1,7 +1,8 @@
 # 📘 Linguagem C – Completa e Descomplicada
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/SEU-USUARIO/exercicios-livro-andre-backes)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]
+https://github.com/masfson-wq/exercicios-livro-andre-backes
 [![Made with VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 Este repositório contém os **exercícios e projetos práticos** baseados no livro _Linguagem C: Completa e Descomplicada_, do autor **André Backes**. O objetivo é praticar e aplicar os conceitos de programação em **C** de forma clara, prática e didática.
