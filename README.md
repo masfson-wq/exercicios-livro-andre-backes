@@ -15,7 +15,7 @@ Este repositório contém os **exercícios e projetos práticos** baseados no li
 - **Autor:** André Backes  
 - **Idioma:** Português  
 - **Foco:** Ensino da linguagem C com clareza e simplicidade  
-- **Público-alvo:** Estudantes de Ciência da Computação, Engenharia e profissionais que desejam aprender/aperfeiçoar lógica em C
+- **Público-alvo:** Estudantes de Ciência da Computação, Engenharia, Analista de Desenvolvimento de Sistemas e profissionais que desejam aprender/aperfeiçoar lógica em C
 
 > O livro apresenta a linguagem C com uma abordagem prática e didática, com exemplos que facilitam o entendimento desde conceitos básicos até temas mais avançados.
 
