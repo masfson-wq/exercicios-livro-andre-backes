@@ -3,8 +3,8 @@
 /*O que esse código faz 
   a) double: Usei double em vez de float para ter mais precisão nas casas decimais, já que o seu PI tem muitos números.
   b) const: Define que o valor de PI não vai mudar durante o programa.
-  c) A lógica: O programa recebe o valor em graus ($G$), multiplica pelo valor de $\pi$ 
-  e divide pelo semicírculo de $180^\circ$ para encontrar a medida em radianos ($R$).*/
+  c) A lógica: O programa recebe o valor em graus, multiplica pelo valor de PI
+     e divide pelo semicírculo de 180 para encontrar a medida em radianos.*/
 
 int main() {
     // Definindo a constante PI conforme o enunciado
