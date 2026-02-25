@@ -26,7 +26,7 @@ Este repositório contém os **exercícios e projetos práticos** baseados no li
 O repositório está organizado em seções que seguem a progressão lógica do livro:
 
 1. **Introdução à Linguagem C** – Instalação, configuração e primeiros programas  
-2. **Variáveis e Tipos** – Tipos de dados, constantes e variáveis  
+2. **Variáveis e Tipos** – Tipos de dados, constantes e a lógica de lendo e escrevendo nas variáveis  
 3. **Operadores e Expressões** – Aritméticos, relacionais e lógicos  
 4. **Estruturas de Controle** – Condicionais, loops e switch  
 5. **Funções** – Criação, modularização e passagem de parâmetros  
